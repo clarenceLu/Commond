@@ -1,0 +1,6 @@
+framework module CommondLib {
+  umbrella header "CommondLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

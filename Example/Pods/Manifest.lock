@@ -1,0 +1,16 @@
+PODS:
+  - CommondLib (0.1.0)
+
+DEPENDENCIES:
+  - CommondLib (from `../`)
+
+EXTERNAL SOURCES:
+  CommondLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CommondLib: 5c3644479b8b676b66fcccc38a8278e2b7fbc322
+
+PODFILE CHECKSUM: 7b0c622de0c943545dbd98bd5b16792ab0a1626e
+
+COCOAPODS: 1.5.3
